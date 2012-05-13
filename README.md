@@ -1,4 +1,2 @@
 reference
 =========
-
-Hello World!
